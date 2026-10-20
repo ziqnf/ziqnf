@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Muhammad Haziq Naufal Bin Abd Karim!
+# Hai 👋, Saya Muhammad Haziq Naufal Bin Abd Karim
 
-### 👨‍💻 About Me
-I am a passionate student currently pursuing my studies at **Universiti Teknologi Malaysia (UTM)**. I love exploring new technologies, building projects, and continuously leveling up my skills as a developer.
+### 👨‍💻 Tentang Saya
+Saya merupakan **pelajar tahun pertama** yang mengikuti pengajian dalam jurusan **Sains Komputer (Kejuruteraan Data)** di **Universiti Teknologi Malaysia (UTM)**. Saya mempunyai minat yang mendalam dalam penerokaan teknologi baharu, membina projek berasaskan data, dan sentiasa berusaha untuk meningkatkan kemahiran saya.
 
-- 🎓 Currently studying at **UTM (Universiti Teknologi Malaysia)**
+- 🎓 Sedang menyambung pengajian di **UTM (Universiti Teknologi Malaysia)**
 
 <!--
 **ziqnf/ziqnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
